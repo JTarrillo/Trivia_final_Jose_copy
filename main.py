@@ -151,21 +151,21 @@ def imprimirTitulos(
 questions = [  # Hay15Preguntas - [Pregunta, Respuesta Correcta, Otra1, Otra2, Otra3]
     [
         "Una de estas obras no es de Mozart. ¿Cuál de ellas?",
-        "La flauta mágica",
+        "Madama Butterfly",
         "La falsa jardinera",
         "Las bodas de Fígaro",
-        "Madama Butterfly"
+        "La flauta mágica"
     ],
     [
         "¿Cuál de los siguientes cantantes pronunció la frase 'Prefiero que me odien por lo que soy a que me admiren por lo que nunca seré'?",
+        " Kurt Cobain",
         "Freddie Mercury",
         "John Lennon",
-        "Jim Morrison",
-        " Kurt Cobain"
+        " Jim Morrison"
     ],
     [
         "Las bandas sonoras de este compositor le dieron un vuelco al spaguetti western. Hablamos de...",
-        "John Williams", "Howard Shore", "Ennio Morricone", "James Horner"
+         "Ennio Morricone","John Williams", "Howard Shore", "James Horner"
     ],
     [
         "¿Cuál de estas canciones no es del grupo inmortal Queen?",
@@ -175,22 +175,23 @@ questions = [  # Hay15Preguntas - [Pregunta, Respuesta Correcta, Otra1, Otra2, O
     ],
     [
         "¿Cuál fue la primera grabación de Rock and Roll?",
+        "Una canción de Chuck Berry",
         "Una canción de Elvis Presley",
         "Una canción de Little Richard",
-        "Una canción de Bill Haley",
-        "Una canción de Chuck Berry"
+        "Una canción de Bill Haley"
+        
     ],
     [
         "Europe y su 'The final countdown' siguen despertando emociones. ¿Recuerdas de qué país era el grupo?",
-        "Dinamarca", "Noruega", "Alemania", "Suecia"
+       "Suecia", "Dinamarca", "Noruega", "Alemania", 
     ],
     [
         "Nos remontamos mucho más atrás para preguntaros, ¿quién fue el primer trovador de la historia?",
-        "Bernart de Ventadorn", "Guillermo IX de Aquitania", "Chrétien de Troyes", "Martín de Codax"
+        "Guillermo IX de Aquitania","Bernart de Ventadorn", "Chrétien de Troyes", "Martín de Codax"
     ],
     [
         "¿De quién es la archiconocida canción 'All I have to do is dream'?",
-        "Johnny Cash", "The Teenagers", "The Platters", "The Everly Brothers"
+       "The Everly Brothers", "Johnny Cash", "The Teenagers", "The Platters"
     ],
     [
         "¿Sabías que el director de cine Pedro Almodóvar también tuvo su propia banda? Se llamaba...",
@@ -210,14 +211,14 @@ questions = [  # Hay15Preguntas - [Pregunta, Respuesta Correcta, Otra1, Otra2, O
     ],
     [
         "¿Cuándo nació el rap?",
-        "Finales de los 50/principios de los 60",
+        "Finales de los 80/principios de los 90",
         "Finales de los 60/principios de los 70",
         "Finales de los 70/principios de los 80",
-        "Finales de los 80/principios de los 90"
+        "Finales de los 50/principios de los 60"
     ],
     [
         "Un actor de películas de terror puso la voz al videoclip 'Thriller' de Michael Jackson. ¿Quién fue?",
-        "Christopher Lee", "Vincent Price", "Mickey Rooney", "Boris Karloff"
+       "Vincent Price", "Christopher Lee", "Mickey Rooney", "Boris Karloff"
     ],
     [
         "¿Cómo se llama el dúo formado por Beyoncé y su marido Jay Z?",
