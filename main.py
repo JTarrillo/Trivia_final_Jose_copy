@@ -169,5 +169,5 @@ while iniciar_trivia == True: #  Mientras iniciar_trivia sea True, repite:
   repetir_trivia = input("Ingresa 'si' para repetir, o cualquier tecla para finalizar: ").lower()
 
   if repetir_trivia != "si":  # != significa "distinto"
-   print("\nEspero {nombre} que lo hayas pasado bien, hasta pronto!")
+   print("\nEspero", nombre, "que lo hayas pasado bien, hasta pronto!")
    iniciar_trivia = False  # Cambiamos el valor de iniciar_trivia a False para evitar que se repita.
